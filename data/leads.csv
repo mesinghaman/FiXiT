@@ -1,0 +1,531 @@
+lead_id,customer_name,contact_number,source,budget,city,property_type,last_activity_minutes_ago,past_interactions,notes,status
+LD0001,NAME,9919909165,housing_portal,,,villa,9289,5,Interested in INQUIRY FOR,CONTACTED
+LD0002,GURPREET KOUR,9914935047,housing_portal,₹75 lakhs,Mohali,villa,17505,4,Interested in 4 BHK IND HOUSE SECTOR 79,follow_up
+LD0003,SHREYAS,7087275630,housing_portal,1.2cr,Mohali,villa,1393,2,Interested in 4 BHK VILLA IN MOHALI,cold
+LD0004,PANKAJ,7814567680,housing_portal,60 lacs,Mohali,PLOT,15605,5,Interested in 2 BHK IN 6700000 IN SECTOR 99 MOHALI,follow_up
+LD0005,ASHWANI GUPTA,9988844594,housing_portal,₹75 lakhs,chandigarh,2BHK,571,2,Interested in 4 BHK IND HOUSE SECTOR 79,follow up
+LD0006,SURAJ PANGENI,8558860125,housing_portal,45 lac,Mohali,commercial,25574,6,Interested in 4 BHK IND HOUSE SECTOR 79,contacted
+LD0007,MEENA,9814867164,housing_portal,₹75 lakhs,Zirakpur,villa,28,3,Interested in 4 BHK VILLA IN 1.98 CR,followup
+LD0008,HEMANT KUMAR,8437628777,housing_portal,60 lacs,Zirakpur,duplex,15715,0,Interested in 3 BHK IN NEW CHANDIGARY IN 90 LACS,contacted
+LD0009,ARUN SHARMA,7986356004,housing_portal,50-80 lac,Mohali,villa,198,3,visit done looking for 1720 and 1450. Interested in not interested,contacted
+LD0010,sanjiv sood,9971555777,housing_portal,under 1cr,Mohali,Villa,24,2,Interested in looking for 4 bhk 66 b mohali,contacted
+LD0011,rajbinder singh,9878146408,housing_portal,45 lac,MOHALI,1bhk,26,6,Interested in one rise,new
+LD0012,meena,6280052811,housing_portal,60 lacs,Kurali,4BHK,6313,4,Interested in one rise,cold
+LD0013,yash,9929901414,housing_portal,50-80 lac,MOHALI,commercial,26,1,Interested in one rise,follow_up
+LD0014,ravi singh,9872435694,housing_portal,60 lacs,panchkula,villa,30,4,Interested in LOOKING FOR 6 MARLA OR 8 MARLA FOR INVESTMENT,CONTACTED
+LD0015,JAPATJIT SINGH,7490000091,housing_portal,45 lac,Kharar,PLOT,6538,4,Interested in LOOKING FOR FLAT MEDALLION 1900 SQ FTS,New
+LD0016,VARINDER CHIMA,8837759857,housing_portal,1.2cr,Derabassi,plot,999,4,Interested in PLOT 5 MARLA IN SECTOR 77,new
+LD0017,VISHAL,9780020984,housing_portal,80L,Kharar,2BHK,494,0,Interested in one rise,contacted
+LD0018,BHUVNEET ARORA,9023657202,housing_portal,under 1cr,MOHALI,commercial,7007,2,Interested in one rise,warm
+LD0019,PARVINDER SINGH,7888558665,housing_portal,₹75 lakhs,Mohali,plot,3225,2,Interested in 4 MARLA PLOT IN ECOCITY,CONTACTED
+LD0020,SUMAN,9988608752,housing_portal,80L,chandigarh,plot,1116,3,"Interested in plot IN 78 , 79, 6 MARLA",cold
+LD0021,DHEERAJ,9582210517,housing_portal,,Panchkula,4BHK,3760,2,Interested in one rise,CONTACTED
+LD0022,MANDEEP SINGH KOHLI,8054948126,housing_portal,45 lac,chandigarh,2BHK,21178,3,Interested in LOOING FOR 8-10 MARLA KOTHI IN 78,new
+LD0023,RAHUL,9876707800,housing_portal,45 lac,,1bhk,4366,2,Interested in one rise,new
+LD0024,SHESH NATH YADAV,9872787753,housing_portal,under 1cr,chandigarh,shop,54,2,Interested in Kothi IN PHASE 1,followup
+LD0025,GAURAV,9530867118,housing_portal,budget flexible,panchkula,1bhk,1381,3,"Interested in LOOKING FOR 1,2,4 PHASE BUDGET OF 2.30 CR",hot
+LD0026,RAVINDER SINGH,9780375453,housing_portal,80L,panchkula,commercial,9,3,Interested in KOTHI,new
+LD0027,INDERPREET SINGH,9815030407,housing_portal,45 lac,Mohali,duplex,28706,6,Interested in OUT OF STATION,new
+LD0028,SATISH MISHRA,7017817781,housing_portal,45 lac,chandigarh,villa,13,0,2413 KOTHI IN SECTOR 79. Interested in 6 MARLA HOUSE IN SECTOR 79,followup
+LD0029,NITIN SHARMA,8699503570,housing_portal,1.2cr,chandigarh,3BHK,25,4,Interested in LOOKING IN CHB SECTOR 63,follow up
+LD0030,AMRISH THAKUR,9888082807,housing_portal,60 lacs,Panchkula,2BHK,30,2,Interested in LAPARISION 2150 SQ FTS.,hot
+LD0031,RAJ KUMAR,7696904477,housing_portal,budget flexible,chandigarh,villa,24913,0,Interested in SECTOR 64,New
+LD0032,AAA FFF,8558936635,housing_portal,50-80 lac,Kurali,plot,37,2,"Interested in 5 MARLA KOTHI 68-78, BUDGET 1.20",follow up
+LD0033,ROHIT GROVER,9810935853,housing_portal,53 lac,Zirakpur,commercial,15557,4,LOW BUDGET. Interested in SECTOR 64,CONTACTED
+LD0034,ARSHPREET KAOUR,8847502404,housing_portal,45 lac,Kharar,villa,8484,5,Interested in SECTOR 64,new
+LD0035,RAJIV,9988877725,housing_portal,₹75 lakhs,Mohali,3 BHK,27432,1,Interested in kothi in budget of 2.25 to 2.50 cr,contacted
+LD0036,DURGA,9814670707,housing_portal,60 lacs,Kurali,3 BHK,260,5,Interested in SECTOR 64,hot
+LD0037,NEELAM CHAMOLI,9217244292,housing_portal,budget flexible,Chandigarh,shop,1273,4,Interested in SECTOR 49,follow_up
+LD0038,MANU,9417494741,housing_portal,60 lacs,Chandigarh,commercial,53,6,Interested in looking society flats chandigarh budget 1.80,New
+LD0039,YASHPAL KHANNA,9988104183,housing_portal,,MOHALI,2BHK,263,2,Interested in SECTOR 80,contacted
+LD0040,GERI,8567008177,housing_portal,,Kurali,3BHK,9700,6,"Interested in 78, 6 MARLA GROUND FLOOR, SATURDAY VISIT",new
+LD0041,SAP,8427677680,housing_portal,under 1cr,,commercial,43,2,Interested in LOOKING FOR KOTHI 8 MARLA IN NAVRATRAY,followup
+LD0042,SHALINI KHETARPAL,9041925117,housing_portal,50-80 lac,Derabassi,plot,14627,5,"Interested in PLOT IN SECTOT 108,109",follow up
+LD0043,HARSH,7973491376,housing_portal,under 1cr,,PLOT,6486,1,Interested in SECTOR 80,follow up
+LD0044,RAJAN,9501682255,housing_portal,budget flexible,Kharar,PLOT,58,3,Interested in SECTOR 80,follow_up
+LD0045,SHUBH,8544770292,housing_portal,₹75 lakhs,panchkula,villa,27,6,Interested in SECTOR 80,contacted
+LD0046,AMARJIT KAUR,9780008725,housing_portal,₹75 lakhs,Kharar,2BHK,323,4,Interested in LAPARISION,warm
+LD0047,MANU PANDAY,9820664027,housing_portal,45 lac,Kurali,plot,13318,0,Interested in PLOT BUDGET OF 1 CR,followup
+LD0048,GURPREE,9780342500,housing_portal,₹75 lakhs,Zirakpur,2BHK,39,4,Interested in KOTHI 10 MARLA OR 12 MARLA,New
+LD0049,MONIKA,7015214677,housing_portal,₹75 lakhs,Chandigarh,3 BHK,22256,4,"2061, 2059. Interested in kothi in budget of 1.60 lacs",follow_up
+LD0050,PUNIT VERMA,9569357261,housing_portal,80L,Panchkula,plot,29145,4,"8860494948. Interested in looking plots in 78-79, 400 sq yard or 500 sq yards",follow up
+LD0051,GURPREET,9780062513,housing_portal,45 lac,chandigarh,commercial,18317,1,Interested in LOOKING FOR KOTHI 8 MARLA call after dushera,follow up
+LD0052,SAHIL BHARDWAJ,9878924552,housing_portal,80L,MOHALI,3 BHK,31957,3,Interested in NEED FLAT IN CHD SOCIETY BUDGET OT 1.50 CR,hot
+LD0053,DALJEET SINGH,7627847463,housing_portal,₹75 lakhs,Zirakpur,Villa,352,0,Interested in CALL IN EVENING,hot
+LD0054,SUMIT KUMAR,8708004833,housing_portal,₹75 lakhs,Zirakpur,villa,2636,3,Interested in WRONG NO.,new
+LD0055,MANDEEP,7412888803,housing_portal,45 lac,Kharar,1bhk,676,2,"Interested in LOOKING IN THE BUDGET OF 60-70 LACS, TDI",followup
+LD0056,SIMRAN,9814712211,housing_portal,budget flexible,panchkula,PLOT,14673,6,Interested in NOT PICKING,new
+LD0057,KK,8591712954,housing_portal,under 1cr,panchkula,plot,18248,6,Interested in budget is 6-8 marla plot in 78 and 79 sector,follow_up
+LD0058,YADWINDER,9332400001,housing_portal,₹75 lakhs,Derabassi,PLOT,4742,0,Interested in PURCHASED,hot
+LD0059,AMIT,9888018333,housing_portal,50-80 lac,Kurali,PLOT,34,0,Interested in DROPPED THE PLAN,cold
+LD0060,SANJEEV,9814016022,housing_portal,₹75 lakhs,Derabassi,plot,243,6,Interested in PLOT IIN 36.90,new
+LD0061,SACHDEVA,9988020613,housing_portal,45 lac,Mohali,villa,10294,0,Interested in 4 BHK VILLA IN MOHALI,followup
+LD0062,AMAN GOEL,9416026966,housing_portal,under 1cr,Mohali,3BHK,1196,4,Interested in 6 BHK IN 1.30 IN SECTOR 80,follow up
+LD0063,SHIV SHANKAR,9417239261,housing_portal,50-80 lac,Chandigarh,commercial,4865,0,Interested in 6 BHK IN 1.30 IN SECTOR 80,CONTACTED
+LD0064,param kumar,9463881500,housing_portal,80L,Zirakpur,Villa,2412,4,Interested in 6 BHK IN 1.30 IN SECTOR 80,New
+LD0065,mohit nehra,9023382804,housing_portal,budget flexible,Chandigarh,1bhk,33269,3,Interested in 4 BHK IN NEW CHANDIGARH IN 2.84 CR,CONTACTED
+LD0066,AMARJIT KAUR,9780008725,housing_portal,1.2cr,panchkula,villa,8650,1,Interested in 4 BHK VILLA IN 1.98 CR,CONTACTED
+LD0067,KAPIL DHAWAN,7087233803,housing_portal,80L,chandigarh,3 BHK,16,3,Interested in 6 BHK IND HOUSE IN SECTOR 78 IN 2.88 CR,cold
+LD0068,CLIENT,8544770292,housing_portal,50-80 lac,Chandigarh,Villa,38,3,Interested in 4 BHK IND HOUSE SECTOR 79 IN 1.40 CR,follow up
+LD0069,RAJAN,9501682256,housing_portal,₹75 lakhs,MOHALI,shop,999,1,Interested in 3 BHK IN NEW CHANDIGARY IN 90 LACS,CONTACTED
+LD0070,HARISH,7973491376,housing_portal,under 1cr,Zirakpur,plot,3478,5,Interested in PLOT,contacted
+LD0071,SHALINI KHETARPAL,9041925117,housing_portal,80L,Mohali,commercial,10957,5,Interested in looking for 4 bhk 66 b mohali,follow_up
+LD0072,GERI,8567008177,housing_portal,60 lacs,Chandigarh,Villa,23210,3,Interested in looking for 6 bhk sector 80 in 1.30 cr,follow_up
+LD0073,DILDAR,7009728134,housing_portal,80L,Mohali,plot,1249,5,Interested in LOOKIG FOR PLOT PHASE 6 MOHALI,New
+LD0074,PANKAJ,9318004005,housing_portal,80L,Derabassi,commercial,75,0,Interested in la parisian,hot
+LD0075,YASHPAL KHANNA,9988104183,housing_portal,,Kurali,plot,22610,3,"Interested in LOOKING FOR PLOT, PHASE 11 BUDGET 2 CR",warm
+LD0076,SUMIR SINGH,6280617234,housing_portal,₹75 lakhs,chandigarh,2BHK,1204,3,Interested in not intersted,warm
+LD0077,MANU,9417494741,housing_portal,1.2cr,Kurali,plot,38115,2,"Interested in LOOKING FOR PLOT SECTOR 108, 109 8TH OCT 2023",cold
+LD0078,shulabh goerl,9953334317,housing_portal,50-80 lac,MOHALI,plot,40360,0,Interested in LOOKING FOR PLOT 5-6 MARLA,CONTACTED
+LD0079,sukhvinder singh,7355840566,housing_portal,60 lacs,Kharar,plot,12002,4,Interested in LOOKING FOR PLOT IN PREET CITY 10 MARLA,follow_up
+LD0080,param sidhu,9646901118,housing_portal,budget flexible,Kharar,4BHK,22,6,7750-7. Interested in BUSY,contacted
+LD0081,rahul bir,8196963333,housing_portal,79 lac,MOHALI,3BHK,13607,6,"1952-2377, PAID 20 LACS NOVA MEDALLION. Interested in NOT INTERESTED",contacted
+LD0082,arun sharma,8699620962,housing_portal,under 1cr,panchkula,1bhk,13,0,Interested in LOOKING FOR FLAT BUDGET 50-60 LACS,hot
+LD0083,sunik kumar singhla,7888701371,housing_portal,60 lacs,Panchkula,4BHK,31,3,Family decision pending,new
+LD0084,anish,9988115405,housing_portal,under 1cr,chandigarh,villa,943,1,Interested in NOT INTERESTED,contacted
+LD0085,jyoti kaur,8427201812,housing_portal,budget flexible,Chandigarh,commercial,22,4,Interested in NOT INTERESTED,follow_up
+LD0086,rajvinder kaur,7814891303,housing_portal,₹75 lakhs,chandigarh,PLOT,16,4,Interested in kothi,followup
+LD0087,aman bagga,9041022333,housing_portal,budget flexible,panchkula,1bhk,26159,1,Interested in PURCHSED IN 78,contacted
+LD0088,sarbjeet,7973102620,housing_portal,,Derabassi,commercial,785,2,Interested in NOT PICKING,cold
+LD0089,saurabh sharma,8527944706,housing_portal,under 1cr,panchkula,Villa,6571,6,Interested in PURCHSED IN 78,new
+LD0090,rahul verma,7888438059,housing_portal,budget flexible,panchkula,commercial,41096,2,Interested in NOT INTERESTED,follow up
+LD0091,vishal rawal,8283832299,housing_portal,budget flexible,,plot,29,2,Interested in kothi,warm
+LD0092,manju rani,9463195635,housing_portal,80L,Zirakpur,2BHK,6619,5,Interested in purchased in zirakpur,cold
+LD0093,raj singh,9855588761,housing_portal,45 lac,Kharar,3BHK,46,4,Interested in not looking,cold
+LD0094,shalu,7508485133,housing_portal,45 lac,Panchkula,plot,9286,0,Interested in not looking,cold
+LD0095,manminder singh,7889765866,housing_portal,80L,Chandigarh,commercial,22,6,Interested in budget is low around 75 lacs,hot
+LD0096,sandeep singh,9876070030,housing_portal,60 lacs,panchkula,Villa,2666,5,Interested in not picking,New
+LD0097,ramesh garg,9417515440,housing_portal,80L,Derabassi,commercial,1335,2,Interested in NOT PICKING,warm
+LD0098,pahwa,9815187545,housing_portal,₹75 lakhs,Chandigarh,4BHK,18503,2,Interested in purchased in gillco,contacted
+LD0099,sunil sharma,7986553867,housing_portal,60 lacs,Zirakpur,4BHK,16428,3,Interested in out of reache,contacted
+LD0100,anchit,9815294893,housing_portal,₹75 lakhs,Kharar,4BHK,377,0,Interested in not purchasing,warm
+LD0101,rahul,7814084248,housing_portal,80L,Mohali,4BHK,1461,0,Interested in not purchasing,warm
+LD0102,amit,9876120546,housing_portal,45 lac,Zirakpur,shop,153,0,Interested in CALL IN EVENING,New
+LD0103,amit saxena,9417239906,housing_portal,budget flexible,MOHALI,PLOT,38,4,Interested in CALL IN EVENING,followup
+LD0104,parveen verma,9871035534,housing_portal,budget flexible,Mohali,PLOT,26691,6,Interested in NOT PICKING,CONTACTED
+LD0105,chief election,9988258080,housing_portal,budget flexible,MOHALI,plot,631,4,Interested in kothi,cold
+LD0106,arun sharma,8146455987,housing_portal,budget flexible,Chandigarh,villa,23,0,Interested in not correct,hot
+LD0107,pravhjot,9714614768,housing_portal,,panchkula,commercial,3592,2,Interested in one rise,New
+LD0108,ashtha,9041567169,housing_portal,60 lacs,Chandigarh,commercial,15,1,Interested in not purchasing,followup
+LD0109,vipan kumar,8082804570,housing_portal,80L,,villa,57,1,Interested in kothi,warm
+LD0110,priyanka,7009738208,housing_portal,80L,Derabassi,commercial,969,3,Interested in kothi,contacted
+LD0111,satnam singh,9781541170,housing_portal,60 lacs,chandigarh,PLOT,19,5,Interested in one rise,hot
+LD0112,ankur goel,9872671301,housing_portal,50-80 lac,Zirakpur,plot,50,2,Interested in kothi,CONTACTED
+LD0113,amit,9872700897,housing_portal,budget flexible,Chandigarh,plot,1402,4,Interested in kothi,follow_up
+LD0114,kanu singhla,9041046944,housing_portal,₹75 lakhs,Kharar,2BHK,595,5,Interested in kothi,new
+LD0115,prabhat,9938158555,housing_portal,budget flexible,Zirakpur,villa,2687,6,Interested in one rise,New
+LD0116,jack,8890866990,housing_portal,under 1cr,Zirakpur,shop,1199,6,Interested in kothi,CONTACTED
+LD0117,anil,9770797990,housing_portal,budget flexible,Chandigarh,3BHK,4817,6,Interested in kothi,hot
+LD0118,param aggarwal,9463881500,housing_portal,under 1cr,Mohali,plot,51,5,Interested in LOOKING FOR PLOT,hot
+LD0119,karamjit,8360266957,housing_portal,,panchkula,1bhk,7258,4,Interested in kothi,followup
+LD0120,tiwana k,7814494874,housing_portal,50-80 lac,Zirakpur,3BHK,10,0,Interested in kothi,CONTACTED
+LD0121,anil sharma,6283044040,housing_portal,under 1cr,Mohali,3BHK,60,3,Interested in kothi,cold
+LD0122,tarun,7009201630,housing_portal,45 lac,Kharar,2BHK,53,3,Interested in kothi,followup
+LD0123,mukim ali,8437779289,housing_portal,,Chandigarh,2BHK,45,4,Interested in kothi,follow_up
+LD0124,anuraj,7388627774,housing_portal,₹75 lakhs,Panchkula,commercial,46,1,Interested in kothi,warm
+LD0125,gawari,9988364808,housing_portal,60 lacs,Kharar,4BHK,3456,5,Interested in kothi,contacted
+LD0126,amit,7986859021,housing_portal,45 lac,Kharar,commercial,1057,1,Interested in kothi,New
+LD0127,parneet,7837281997,housing_portal,45 lac,Chandigarh,Villa,9602,5,Interested in kothi,CONTACTED
+LD0128,nishan mann,7251048073,housing_portal,1.2cr,Kurali,1bhk,283,2,Interested in kothi,New
+LD0129,tarun,9501471701,housing_portal,₹75 lakhs,chandigarh,duplex,53,0,Interested in kothi,New
+LD0130,pratik singh,9592999098,housing_portal,₹75 lakhs,Zirakpur,Villa,14406,0,Interested in kothi,follow_up
+LD0131,mohit nehra,9023382804,housing_portal,50-80 lac,chandigarh,1bhk,6,0,Interested in kothi,follow up
+LD0132,arun kumar,7307317851,housing_portal,budget flexible,MOHALI,PLOT,17053,4,Interested in one rise,contacted
+LD0133,srini,9550054011,housing_portal,80L,Panchkula,3 BHK,40366,2,Interested in kothi,hot
+LD0134,gurmeet,9464427756,housing_portal,60 lacs,panchkula,villa,891,6,Interested in kothi,follow up
+LD0135,monika sharma,8349520898,housing_portal,45 lac,chandigarh,4BHK,762,4,Interested in the zirk,new
+LD0136,c s,9356678899,housing_portal,45 lac,Derabassi,3 BHK,48,5,Interested in one rise,follow up
+LD0137,kiran,7696139264,housing_portal,60 lacs,Kurali,commercial,34,2,Interested in emmar hills,cold
+LD0138,mandee tiwana,9815932712,housing_portal,45 lac,Mohali,villa,2869,0,Interested in kothi,warm
+LD0139,ajaib gill,7351657776,housing_portal,,Panchkula,PLOT,2474,3,Interested in kothi,follow up
+LD0140,gagandeep,9814686533,housing_portal,1.2cr,Mohali,Villa,21,5,Interested in kothi,new
+LD0141,sharma t,8492900929,housing_portal,under 1cr,Derabassi,3 BHK,799,1,Interested in kothi,follow up
+LD0142,alka,7009311958,housing_portal,80L,,3 BHK,729,3,Interested in kothi,follow_up
+LD0143,indu sharma,8801337000,housing_portal,80L,chandigarh,duplex,901,6,Interested in kothi,cold
+LD0144,sunil rana,8368545887,housing_portal,budget flexible,Zirakpur,commercial,14,2,Interested in kothi,New
+LD0145,DALIP,8619860091,housing_portal,1.2cr,Chandigarh,PLOT,3312,6,Interested in KOTHI,New
+LD0146,GAURAV MITTAL,9041027271,housing_portal,60 lacs,Derabassi,shop,2291,1,Interested in FLAT,New
+LD0147,ASHISH SHARMA,8586873981,housing_portal,80L,Chandigarh,Villa,1025,5,Interested in CHANDIGARH,follow up
+LD0148,VIDUR RANA,9988366255,housing_portal,80L,chandigarh,3BHK,744,1,Interested in la parisian,contacted
+LD0149,VINAY KUMAR,9814238821,housing_portal,budget flexible,Chandigarh,commercial,42,2,Interested in KOTHI,new
+LD0150,SHAMSHER SINGH,9815400047,housing_portal,,Kurali,PLOT,47,4,Interested in KOTHI,follow up
+LD0151,AG GOEL,9814443415,housing_portal,1.2cr,Kurali,shop,32639,5,Interested in KOTHI,warm
+LD0152,RAVI,9815442512,housing_portal,60 lacs,Kurali,shop,27431,0,Interested in KOTHI,follow_up
+LD0153,JATINDER KUMAR,9888541148,housing_portal,1.2cr,Kharar,2BHK,10067,0,Interested in KOTHI,New
+LD0154,SANCHIT,9780890024,housing_portal,1.2cr,panchkula,3BHK,2137,0,Interested in KOTHI,cold
+LD0155,SARIC CHAMOLI,9646466077,housing_portal,₹75 lakhs,Kharar,4BHK,20309,3,Interested in KOTHI,follow_up
+LD0156,VINEER SHIMAR,7009506324,housing_portal,,Derabassi,2BHK,14984,3,Interested in KOTHI,follow_up
+LD0157,JAYA,9953301886,housing_portal,₹75 lakhs,Zirakpur,1bhk,1019,0,Interested in KOTHI,hot
+LD0158,DEEPAK DJ,8219487290,housing_portal,under 1cr,panchkula,3BHK,13402,5,Interested in KOTHI,warm
+LD0159,LOVKESH,9914921600,housing_portal,60 lacs,MOHALI,3BHK,10,1,Interested in KOTHI,warm
+LD0160,NATWAR MAINI,8146881026,housing_portal,45 lac,Derabassi,villa,27214,5,Interested in KOTHI,follow_up
+LD0161,SINGH,7696694391,housing_portal,50-80 lac,Derabassi,shop,9330,5,Interested in KOTHI,warm
+LD0162,GURPREET SINGH,9891418000,housing_portal,60 lacs,Kurali,2BHK,5854,5,Interested in KOTHI,contacted
+LD0163,HARDEEP,9871071159,housing_portal,1.2cr,Kurali,shop,31735,4,Interested in KOTHI,New
+LD0164,JASMINDER,9872915513,housing_portal,60 lacs,Mohali,3 BHK,49,0,Interested in KOTHI,follow_up
+LD0165,SATBIT SINGH,9888008472,housing_portal,45 lac,panchkula,villa,30,3,Interested in KOTHI,followup
+LD0166,JYOTI SHARMA,9914443606,housing_portal,50-80 lac,Zirakpur,Villa,9,1,Interested in JLPL,contacted
+LD0167,SHVETA,9988222060,housing_portal,60 lacs,Kharar,shop,321,1,Interested in JLPL,New
+LD0168,DOLLY BAINS,9876628261,housing_portal,1.2cr,Mohali,4BHK,736,6,Interested in KOTHI,contacted
+LD0169,ZEPHER ENG,9914081340,housing_portal,80L,Panchkula,plot,10995,2,Interested in KOTHI,new
+LD0170,INDERJIT KAUR,7717300010,housing_portal,60 lacs,Kharar,1bhk,20,2,Interested in KOTHI,New
+LD0171,POONAM BHULLAR,9872037093,housing_portal,₹75 lakhs,Panchkula,duplex,1221,0,Interested in Kothi,new
+LD0172,KARTIK BHATIA,7009545859,housing_portal,80L,Kharar,commercial,43,0,Interested in ONE RISE,contacted
+LD0173,ANMOL GUPTA,9316333331,housing_portal,under 1cr,chandigarh,2BHK,1396,5,Interested in KOTHI,followup
+LD0174,DEEPA,9216962555,housing_portal,₹75 lakhs,,3 BHK,47,1,Interested in KOTHI,New
+LD0175,JASSI SINGH,7837631901,housing_portal,under 1cr,,1bhk,40,5,Interested in KOTHI,hot
+LD0176,ROHIT,7696370595,housing_portal,60 lacs,Panchkula,commercial,5129,3,Interested in KOTHI,New
+LD0177,MANMEET SINGH,7986670218,housing_portal,1.2cr,Zirakpur,3BHK,27940,0,Interested in KOTHI,followup
+LD0178,GILL,9914830090,housing_portal,80L,chandigarh,1bhk,28,6,Interested in KOTHI,cold
+LD0179,SHIKHA,6280262971,housing_portal,50-80 lac,Panchkula,duplex,11109,2,Interested in Kothi,hot
+LD0180,PARDEEP,9650646707,housing_portal,60 lacs,Kurali,3BHK,1177,4,Interested in Kothi,warm
+LD0181,JAGDEV SINGH,9417316203,housing_portal,₹75 lakhs,Panchkula,Villa,2959,3,Interested in Kothi,cold
+LD0182,PARAMJIT SINGH,8109171300,housing_portal,50-80 lac,Chandigarh,Villa,16,5,Interested in KOTHI,followup
+LD0183,SACHDEVA,9988020613,housing_portal,,Kharar,Villa,1144,2,Interested in KOTHI,hot
+LD0184,PUNITA GUPTA,9417869715,housing_portal,budget flexible,Kharar,plot,33,3,Interested in KOTHI,follow up
+LD0185,gagandeep,9216243222,housing_portal,,chandigarh,2BHK,424,2,Interested in Kothi,cold
+LD0186,PARAMJIT SINGH,9814338381,housing_portal,under 1cr,Kurali,villa,1317,6,Interested in Kothi,hot
+LD0187,RAJESH,8979075881,housing_portal,budget flexible,MOHALI,duplex,33526,6,Interested in one rise,cold
+LD0188,ARUN,9814814007,housing_portal,budget flexible,Mohali,1bhk,24541,1,Interested in KOTHI,hot
+LD0189,AYUSHI ROY,8583844965,housing_portal,under 1cr,Kharar,1bhk,767,5,Interested in JLPL,hot
+LD0190,SANDEEP,9988465856,housing_portal,80L,Panchkula,1bhk,9,6,Interested in KOTHI,followup
+LD0191,YOGESH,8591503281,housing_portal,budget flexible,chandigarh,duplex,1005,0,Interested in NOT IN USE,warm
+LD0192,NIPUN SHARMA,9888894585,housing_portal,budget flexible,Chandigarh,PLOT,42,0,Interested in BUSY,follow_up
+LD0193,SEEMA SINGH,9419141117,housing_portal,60 lacs,Zirakpur,3 BHK,5851,2,Interested in Kothi,contacted
+LD0194,ABHAY,7018679582,housing_portal,50-80 lac,Kurali,commercial,320,3,Interested in BROKER IN 10 PHASE,warm
+LD0195,AMARJIT KAUR,8727095884,housing_portal,₹75 lakhs,Kharar,shop,746,3,Interested in BUSY,contacted
+LD0196,NAREHS CHUGH,9416469207,housing_portal,60 lacs,,villa,34,3,Interested in BUSY,cold
+LD0197,SUKHPREET,9592816454,housing_portal,50-80 lac,Derabassi,2BHK,1422,0,Interested in NOT,new
+LD0198,SHIKHA,9876234052,housing_portal,under 1cr,Zirakpur,duplex,1964,1,Interested in NOT PICKING,cold
+LD0199,TAPAN DEWAN,9872315555,housing_portal,50-80 lac,panchkula,1bhk,9631,0,Interested in GMADA AEROCITY,cold
+LD0200,AMRIT PAL SINGH,9417212917,housing_portal,1.2cr,Panchkula,2BHK,648,6,Interested in purchased  mig,warm
+LD0201,VANDANA,9646465609,housing_portal,₹75 lakhs,Mohali,2BHK,1197,5,Interested in FLAT IN MOHALI,New
+LD0202,RAJBAL SINGH,8872106611,housing_portal,,Mohali,4BHK,962,3,Interested in SECTOR 49/ MOHALI,New
+LD0203,MANISH,9878035665,housing_portal,₹75 lakhs,chandigarh,3BHK,30,1,Interested in not interested,New
+LD0204,HOUSING USER,9816053344,housing_portal,80L,Chandigarh,duplex,27527,4,"Interested in SECTOR 49, CHANDIGARH",warm
+LD0205,VISHAL GUPTA,9855050001,housing_portal,₹75 lakhs,Panchkula,3 BHK,7214,5,Interested in SECTOR 64,follow_up
+LD0206,USHS DOGRA,9992479993,housing_portal,1.2cr,Chandigarh,4BHK,29641,4,Interested in SECTOR 64,followup
+LD0207,RASSHMEET SINGH,9877532473,housing_portal,1.2cr,Panchkula,villa,292,3,Interested in NOT INTERESTED NOW,contacted
+LD0208,VIKRAM,9888013720,housing_portal,,Mohali,duplex,1607,3,Interested in not interested,follow_up
+LD0209,MANJINDER,9530769944,housing_portal,budget flexible,chandigarh,3 BHK,37757,0,Interested in SECTOR 78,New
+LD0210,NIRLUMBH KAUR,9646028288,housing_portal,45 lac,Kharar,duplex,530,1,Interested in SECTOR 78,CONTACTED
+LD0211,SANTOCH DUBEY,9888788868,housing_portal,under 1cr,panchkula,2BHK,379,2,Interested in not interested,warm
+LD0212,ISHAN SHANDIL,7087538181,housing_portal,60 lacs,Kharar,villa,17,2,Interested in not picking,follow up
+LD0213,SUNITA SHARMA,9316517693,housing_portal,1.2cr,Mohali,commercial,23046,0,Interested in lookig for her client in mohali budget of 1 cr,warm
+LD0214,JAGIT SINGH,7307376073,housing_portal,₹75 lakhs,Panchkula,4BHK,10365,2,Interested in NOT INTERESTED NOW,contacted
+LD0215,RAVITA,9988699032,housing_portal,60 lacs,Zirakpur,3BHK,25262,5,Interested in SECTOR 80,follow_up
+LD0216,SATICH MAHAJAN,8825005123,housing_portal,,Panchkula,1bhk,1134,2,Interested in SECTOR 78,new
+LD0217,SUMIR SINGH,6280617234,housing_portal,,Chandigarh,Villa,47,4,Interested in SECTOR 78,New
+LD0218,AMANDEEP SINGH,7795585034,housing_portal,45 lac,chandigarh,plot,16,4,Interested in SECTOR 80,CONTACTED
+LD0219,N,7888585887,housing_portal,45 lac,panchkula,shop,983,0,Interested in SECTOR 78,contacted
+LD0220,ISHWARI,9466000001,housing_portal,under 1cr,Mohali,plot,1815,2,Interested in SECTOR 49/ MOHALI,follow up
+LD0221,SHARMA JI,7009253990,housing_portal,50-80 lac,Mohali,3BHK,29511,2,Interested in SECTOR 49/ MOHALI,follow up
+LD0222,GURMEET SINGH,9876543498,housing_portal,₹75 lakhs,Zirakpur,villa,802,0,Interested in SECTOR 80,CONTACTED
+LD0223,RAHUL KUMAR,9592690066,housing_portal,₹75 lakhs,Kurali,villa,13,5,Interested in SECTOR 80,cold
+LD0224,YOGESH,8837793332,housing_portal,50-80 lac,MOHALI,Villa,8541,0,Interested in NOT INTERESTED NOW,hot
+LD0225,KAPIL DHAWAN,7087233803,housing_portal,₹75 lakhs,Mohali,Villa,1300,1,Interested in SECTOR 80,cold
+LD0226,NEHA,8557808465,housing_portal,,Zirakpur,3BHK,27254,2,Interested in SECTOR 80,hot
+LD0227,satnam singh,9780024689,housing_portal,₹75 lakhs,Mohali,duplex,20374,3,Interested in SECTOR 78,cold
+LD0228,PANKAJ SINGH,9318004005,housing_portal,45 lac,Kharar,4BHK,40564,4,Interested in SECTOR 80,cold
+LD0229,REYANSH NAGPAL,8198000563,housing_portal,1.2cr,,3 BHK,659,1,Interested in SECTOR 80,warm
+LD0230,VIJAY,9988036847,housing_portal,45 lac,Zirakpur,shop,42655,4,Interested in SECTOR 78,CONTACTED
+LD0231,PS,9815855477,housing_portal,50-80 lac,Mohali,2BHK,10,6,"Interested in MOHALII IN BUDGET OF 1100000, IN NAVRATRA",CONTACTED
+LD0232,manish goyal,7009457964,housing_portal,50-80 lac,Kurali,4BHK,5581,4,Ready to book if price is right,followup
+LD0233,BALWINDER PAL,9815155981,housing_portal,1.2cr,chandigarh,2BHK,15,1,Wants to visit this weekend,contacted
+LD0234,PRAKUL VERMA,8837573883,housing_portal,80L,Chandigarh,shop,771,1,Looking for shop in Chandigarh,follow up
+LD0235,KAMALJEET,8360395807,housing_portal,1.2cr,Chandigarh,Villa,4611,5,Looking for Villa in Chandigarh,warm
+LD0236,S VASHISHTY,8986880377,housing_portal,budget flexible,chandigarh,4BHK,540,5,Family decision pending,follow up
+LD0237,VARINDER KAUR,7006953419,housing_portal,budget flexible,MOHALI,shop,22643,3,Looking for shop in MOHALI,contacted
+LD0238,RAJIV OBEROI,9465164929,housing_portal,₹75 lakhs,,2BHK,586,1,Ready to book if price is right,warm
+LD0239,VIVEK UTREJA,9855584567,housing_portal,50-80 lac,Panchkula,shop,1368,2,Interested in BUDGET 2 CR IN EMMAR 400 SQ YARD,CONTACTED
+LD0240,SS GILL,9312467677,housing_portal,80L,Panchkula,plot,53,3,8427596995. Interested in 3 CR LOOKING FOR PLOT OR KOTHI IN 10 MARLA,hot
+LD0241,DEEPKA KUMAR,9988649064,housing_portal,budget flexible,chandigarh,Villa,30,5,Interested in BUDGET OF 75 LACS IN BALTANA,new
+LD0242,HAPPY GARG,9416490986,housing_portal,,Kurali,duplex,11636,2,Interested in BUDGET OF 1.50 CR FLOOR IN SECTOR 64,follow up
+LD0243,ASEEM,7986129773,housing_portal,50-80 lac,chandigarh,plot,37989,2,Interested in BUDGET OF 1.20 CR PLOT IN 77-80 SECTOR,hot
+LD0244,RAJINDER SINGH,7833029499,housing_portal,budget flexible,Mohali,plot,45,5,Interested in BUDGET OF 1.20 CR PLOT OR HOUSE N 77-80 SECTOR,new
+LD0245,RIPAN,9803477789,housing_portal,under 1cr,Mohali,plot,37086,4,Interested in 1685 IN AMBIKA IN 1.15 OR PLOT IN BUDGET OF 1.80 PHASE 10 OR 11,follow_up
+LD0246,simarjit sing,9781391626,housing_portal,45 lac,Mohali,commercial,59,0,"Interested in budget of 75 lacs in mOhali , iquired about one rise",follow up
+LD0247,RAJ KUMAR,7696904477,housing_portal,50-80 lac,Kharar,duplex,53,6,Interested in not picked,warm
+LD0248,ppp lttt,8507243000,housing_portal,50-80 lac,Panchkula,2BHK,21443,6,Interested in not picked,new
+LD0249,raftar singh rai,7508048464,housing_portal,budget flexible,Mohali,duplex,5439,3,Interested in not picked,follow up
+LD0250,baljinder singh,9034327063,housing_portal,under 1cr,Kurali,villa,8951,0,Interested in int in Motia floor or wave,follow up
+LD0251,gaurav kamboj,9876999787,housing_portal,45 lac,Kharar,1bhk,25320,1,Interested in NOT INTRESTED,warm
+LD0252,REETIKA,9988616760,housing_portal,45 lac,Derabassi,3 BHK,15354,0,Family decision pending,CONTACTED
+LD0253,AJAY,8837748930,housing_portal,under 1cr,Mohali,4BHK,1881,5,Wants to visit this weekend,warm
+LD0254,PAYAL,8092837583,housing_portal,80L,panchkula,3 BHK,18277,2,Comparing with other projects,warm
+LD0255,SIMARJIT SINGH,9781391626,housing_portal,,Kurali,3BHK,751,2,Looking for 3BHK in Kurali,contacted
+LD0256,KAUR,9115711000,housing_portal,80L,Chandigarh,3BHK,16094,5,Looking for 3BHK in Chandigarh,followup
+LD0257,SEEMA BHATIA,9888568024,housing_portal,50-80 lac,Derabassi,plot,48,0,Looking for plot in Derabassi,New
+LD0258,GAGAN,9914111090,housing_portal,80L,chandigarh,plot,18,3,Looking for plot in chandigarh,cold
+LD0259,SWAG LEVEL,7006800810,housing_portal,80L,chandigarh,villa,9,6,Looking for villa in chandigarh,contacted
+LD0260,ARSH SANDHU,8814045713,housing_portal,budget flexible,chandigarh,PLOT,374,2,Comparing with other projects,CONTACTED
+LD0261,DEV GOEL,8699543328,housing_portal,under 1cr,Mohali,3 BHK,15257,2,"Budget around under 1cr, serious buyer",cold
+LD0262,AMANDEEP SINGH,9790719996,housing_portal,budget flexible,Chandigarh,plot,5,6,"Interested in LOOKING FOR PLOT IN 77-79 SECTORS, BUDGET OF 1.35 CR",warm
+LD0263,SURAJ RAHEJA,9466697837,housing_portal,1.2cr,Kurali,plot,33979,4,Interested in LOOKING FOR PLOT IN 77-79 SECTORS,warm
+LD0264,CHANDER PAL,9855743109,housing_portal,80L,Chandigarh,duplex,25,0,Interested in LOOKING IN FLORENCE PARK NEW CHANDIGARH,followup
+LD0265,SURAJ RAHEJA,9466697837,housing_portal,budget flexible,Mohali,plot,33719,1,Interested in LOOKING FOR PLOT IN 77-79 SECTORS,New
+LD0266,TARUSHI MITTAL,9781337500,housing_portal,50-80 lac,Chandigarh,plot,20982,3,Comparing with other projects,followup
+LD0267,gaurav,9915444094,housing_portal,60 lacs,,3BHK,1755,1,Interested in LOOKING IN ONE RISE BUDGET OF 90 LACS,warm
+LD0268,SAWATANTAR GILL,9312467677,housing_portal,50-80 lac,Kharar,plot,5470,4,Interested in LOOKING 4 BHK IN BUDGET OF 1.45 TO 1.75,new
+LD0269,joy roy,8697066439,housing_portal,45 lac,Zirakpur,duplex,11,2,Interested in LOOKING FOR LP 1450,new
+LD0270,sarabjeet sarow,8558834715,housing_portal,1.2cr,Kurali,3BHK,40713,2,Interested in looking for 8 marla in 79 sector,cold
+LD0271,AMAN KHURANA,9041994903,facebook,45 lac,Mohali,Villa,239,2,2ND NOV. 2023 MOHALI VISIT. Interested in SBP,follow_up
+LD0272,RANI DALAL,9528207770,facebook,under 1cr,,2BHK,1105,1,AD AGENCY. Interested in AURUM,CONTACTED
+LD0273,SHIV KUMAR ROHILLA,9872614600,facebook,80L,,plot,865,5,PLOT PURCHASED IN MANOHAR MULLANPUR. Interested in AURUM,contacted
+LD0274,PARSHANT KUMAR,7206237535,facebook,50-80 lac,panchkula,plot,36057,5,NOW WANTS TO PURCHASED PLOT DISCUSSED AEROCITY 8 MARLA 12TH JAN 2024. Interested in AURUM,CONTACTED
+LD0275,RAJINDER SINGH,9779350003,facebook,₹75 lakhs,panchkula,1bhk,538,1,VISIT DONE. Interested in AURUM,new
+LD0276,RAJIV,9915486788,facebook,under 1cr,Kurali,1bhk,11108,2,NOT INTERESTED. Interested in AURUM,CONTACTED
+LD0277,SHALLY,7830701233,facebook,50-80 lac,Panchkula,3BHK,42073,0,NOT PICKING. Interested in SBP,contacted
+LD0278,BL DAHIYA,9888229071,facebook,1.2cr,,1bhk,3752,2,CALL AFTER DIWALI. Interested in SBP,new
+LD0279,NONIKA SINGH,9915776789,facebook,₹75 lakhs,Kurali,Villa,816,5,BROCHURE SHARED. Interested in AURUM,new
+LD0280,SANJAY VERMA,9815480188,facebook,50-80 lac,Chandigarh,PLOT,39522,3,BROCHURE SHARED. Interested in AURUM,hot
+LD0281,SANJEEV KOCHAR,9466190030,facebook,,panchkula,4BHK,8295,2,BROCHURE SHARED. Interested in AURUM,CONTACTED
+LD0282,NEW RAJINDER SINGH,9779933999,facebook,₹75 lakhs,chandigarh,plot,9141,5,Ready to book if price is right,contacted
+LD0283,MUKESH PANDAY,7508844073,facebook,45 lac,Chandigarh,1bhk,6830,1,Interested in BUDGET 90 LACS,followup
+LD0284,AKHILESH SINGH,9812121212,facebook,60 lacs,,commercial,4017,5,Interested in BUDGET AVOVE 2 CR,follow up
+LD0285,PREETINDER SINGH,6283724765,facebook,1.2cr,chandigarh,4BHK,5320,3,Interested in BUDGET AVOVE 2 CR,followup
+LD0286,RAJKUMAR SHAH,6284594065,facebook,50-80 lac,Zirakpur,1bhk,6566,2,Interested in BUDGET AVOVE 2 CR,new
+LD0287,PUSHAM BANSAL,9988886006,facebook,budget flexible,Kurali,duplex,32925,1,Interested in BUDGET 90 LACS,new
+LD0288,mayank,9991440029,facebook,45 lac,Mohali,commercial,19648,1,Interested in purchased in Gurgaon,contacted
+LD0289,ANIL CHOPRA,9814064881,facebook,under 1cr,Kharar,3BHK,27,1,"Interested in call on 4th Feb 23, wants to visit stuck",New
+LD0290,TARANJIT MOHAMMAD,9988696362,facebook,under 1cr,Chandigarh,duplex,744,2,Interested in NOT PICKING,contacted
+LD0291,MONIKA JAMWAL,9582394595,facebook,50-80 lac,Mohali,shop,58,4,Interested in NOT PICKING,new
+LD0292,SUCHITRA SODHI,8198882345,facebook,₹75 lakhs,MOHALI,1bhk,4202,3,"as per talk 26th jan will discuss with his huband. Interested in asking 2 weeks time, call 20TH jan 2024",New
+LD0293,PAWAN KUMAR,9888730399,facebook,1.2cr,Zirakpur,shop,72,2,Interested in call on 5th jan 2024,follow up
+LD0294,RINKY SOIN,9317600077,facebook,45 lac,chandigarh,Villa,5654,0,Interested in LOOKING FOR MEDALLION AURUM CALL ON 19th JANUARY,New
+LD0295,SAM SAHOTA,7470000028,facebook,80L,Mohali,PLOT,13,2,Interested in LOOKING FOR PENTHOUSE VISIT ON 27TH JAN 24,CONTACTED
+LD0296,GAURAV DHAWAN,7814609717,facebook,under 1cr,Kharar,plot,956,6,"Interested in LOOKING FOR AURUM, BROCHURE SHARED, VISIT ON 24th FEB 24",follow_up
+LD0297,SANAN KUTHIALA,9816088136,facebook,45 lac,panchkula,plot,12528,1,"Interested in LOOKING FOR 4 BHK IN AURUM, OUT OF STATION",followup
+LD0298,GURPREET SINGH,9915039020,facebook,45 lac,Chandigarh,commercial,10053,2,Interested in WILL VISIT BEFORE 6TH FEB 24,follow_up
+LD0299,AKHILESH SINGH,9812121212,facebook,60 lacs,Zirakpur,PLOT,59,1,Interested in NOT PICKING,followup
+LD0300,GAURAV DHAWAN,8847306217,facebook,budget flexible,Mohali,plot,8647,5,"Interested in LEAD FROM THE SAME CLIENT, IT APPEARS",follow_up
+LD0301,RAHUL KANSAL,8804500031,facebook,50-80 lac,Chandigarh,4BHK,1328,0,"Interested in Interested , call on 27th Feb 2024",warm
+LD0302,ABHINAV KOCHAR,9592000131,facebook,₹75 lakhs,panchkula,villa,5924,4,"Interested in HAVE A FLAT IN AMBIKA LAPARISIAN, TOWER TRIOMPHE B 404 WANTS TO SELL AND WANT TO PURCHASE IN MEDALLION 1995",warm
+LD0303,SANDEEP GUPTA,9988115568,facebook,45 lac,chandigarh,1bhk,6984,6,Interested in plan for visit on 20th Feb 2024,cold
+LD0304,sahil arora,9517044444,facebook,budget flexible,panchkula,1bhk,1823,3,Interested in NOT PICKING,follow up
+LD0305,sahil sokhal,9888277401,facebook,60 lacs,Zirakpur,1bhk,42249,0,Interested in not interested,followup
+LD0306,vikki,9872736355,facebook,80L,Kurali,3BHK,17908,6,Interested in broker,new
+LD0307,aarti choudhary,8725952732,facebook,budget flexible,MOHALI,4BHK,861,0,Looking for 4BHK in MOHALI,CONTACTED
+LD0308,noni ji abc tours,8955790031,facebook,60 lacs,panchkula,2BHK,622,6,Comparing with other projects,cold
+LD0309,kamal kant kalra,9501691371,facebook,50-80 lac,Derabassi,2BHK,51,5,Interested in INT IN MARBELLA ROYCE,warm
+LD0310,Dalveer jassar,9814683994,facebook,1.2cr,Derabassi,duplex,30,4,Ready to book if price is right,cold
+LD0311,SANDEEP SHARMA,9815838686,facebook,80L,Zirakpur,commercial,24774,0,"Interested in INterested IN 68 COMMERCIAL, ASKING DETAIL",follow_up
+LD0312,RANDHAWAL PROPERTY,9888987373,facebook,60 lacs,Panchkula,plot,180,6,Interested in DETAIL WANTS,follow_up
+LD0313,PADAMJIT SINGH,9815218236,facebook,₹75 lakhs,Panchkula,PLOT,882,5,Family decision pending,follow_up
+LD0314,ROHIT,9810579446,facebook,60 lacs,Panchkula,plot,6030,3,Interested in NOT INTERESTED,follow_up
+LD0315,JUNEJA,9803000790,99acres,3 crore,Kharar,Villa,24,5,"IN 1 CRORES BUDGET, CALL AFTER DIWALI. Interested in WARM",followup
+LD0316,VIPIN SETH,9816024194,99acres,98 lac,Mohali,plot,45,2,50 LACS BUDGET,followup
+LD0317,DEEP MANGAT,8557980970,99acres,2 crore,Derabassi,commercial,161,1,2 CR BUDGET,New
+LD0318,GAURAV THAKUR,7973264475,99acres,3 crore,Kurali,3 BHK,506,4,2 CR BUDGET,follow up
+LD0319,GAURAV THAKURAL,8699083853,99acres,106 lac,MOHALI,Villa,3277,6,"BUDGET OF 60 LACS , LOOKING OFFICE , TIME REQUIRE 6-8 CALL AFTER DIWALI. Interested in WARM",followup
+LD0320,ANIL GAUTAM,8591291180,99acres,45 lac,,shop,1380,1,not interested,cold
+LD0321,JOGINDER VEDI,8100066661,99acres,2 crore,Zirakpur,plot,799,6,2 CR BUDGET,warm
+LD0322,BEDI,7098980002,99acres,60 lacs,chandigarh,1bhk,5120,4,AFTER 2 MONTHS. Interested in WARM,New
+LD0323,ABHUSHEK MITTAL,8198090090,99acres,₹75 lakhs,chandigarh,duplex,675,5,OMAXE,follow_up
+LD0324,SURINDER PAL,7888720838,99acres,80L,Panchkula,shop,18,2,NOTE REACHABLE,cold
+LD0325,vishal khurana,9988882259,99acres,1 crore,Kharar,commercial,4189,1,looking commercial in dt in budget of 2.5 cr,contacted
+LD0326,NARULA,9872026297,99acres,2 crore,MOHALI,duplex,52,4,1 CR,new
+LD0327,RANDEEO CHOPRA,9914031011,99acres,budget flexible,Zirakpur,3BHK,36007,5,NOT LOOKING,new
+LD0328,RANDEEP CHOPRA,8968020280,99acres,₹75 lakhs,Derabassi,duplex,36,4,LOOKING FOR SHOWROOM CALL FEB END 2024. Interested in WARM,followup
+LD0329,HARDIAL SINGH SIDHU,9855130122,99acres,45 lac,MOHALI,2BHK,59,0,NOT LOOKING RIGHT NOW,follow_up
+LD0330,chanden,7087276099,99acres,80L,Chandigarh,3 BHK,18605,1,invested in new chandigarh,cold
+LD0331,gagandeep,9779537004,99acres,45 lac,chandigarh,villa,139,5,not picked,cold
+LD0332,priyanka,9501003133,99acres,80L,Mohali,3BHK,50,4,NOT,New
+LD0333,RAJ ARYA,7888690150,99acres,80L,Chandigarh,commercial,27,0,SWITCH OFF,warm
+LD0334,MANINDER SINGH,9888963571,99acres,under 1cr,Kurali,commercial,13,2,BUSY,new
+LD0335,Megha,9805996768,99acres,under 1cr,Chandigarh,commercial,6,3,Ready to book if price is right,hot
+LD0336,saurabh mangat,7440000047,99acres,under 1cr,Panchkula,Villa,10765,2,Family decision pending,followup
+LD0337,HARSIMRAN SAHNI,8452916371,99acres,60 lacs,Kharar,plot,961,6,Looking for plot in Kharar,followup
+LD0338,RAJESH AVTAR,9814535081,99acres,₹75 lakhs,Panchkula,2BHK,9288,3,not interested RIGHT NOW,followup
+LD0339,DEEPAK RAWAT,9888421345,99acres,60 lacs,Zirakpur,shop,9949,3,"DRIVING, CALL SOME OTHER TIME",warm
+LD0340,PUNIT KHANNA,7400000746,99acres,₹75 lakhs,chandigarh,shop,21,2,NOT,followup
+LD0341,ANKUSH GUPTA,9876199900,99acres,₹75 lakhs,Kurali,1bhk,1396,0,NOT PLANNING,hot
+LD0342,PRAKASH JAIN,9779692498,99acres,,Chandigarh,4BHK,1333,6,CALL SOME OTHER TIME,cold
+LD0343,BIKRAMJIT,9023123000,99acres,₹75 lakhs,Zirakpur,plot,596,3,6 MARLA PLOT NO 6483 IN G BLOCK PARK FACING 1.30 DEMAND,CONTACTED
+LD0344,rehamdeep,9888087743,99acres,₹75 lakhs,chandigarh,3 BHK,26201,1,WILL LOOK NEXT YEAR,hot
+LD0345,vikram arora,9316666333,99acres,budget flexible,Derabassi,3BHK,16052,1,NOT LOOKING,followup
+LD0346,bhaskar kalia,9814265501,99acres,45 lac,MOHALI,2BHK,990,1,CALL MID OF FEB 2024,followup
+LD0347,shobhit ahuja,7060967435,99acres,1.2cr,Chandigarh,2BHK,651,4,NOT LOOKING,hot
+LD0348,arsh bhullat,8284868157,99acres,60 lacs,chandigarh,3BHK,16105,6,NOT LOOKING RIGHT NOW,CONTACTED
+LD0349,rakesh narula,9815853340,99acres,80L,Kharar,plot,212,6,"MULTIPLE PROPERTY AURUM, CP 67, HORIZONB, RENT OUT CP OFFICE UNITS",contacted
+LD0350,gs ajal,9914041051,99acres,₹75 lakhs,Derabassi,2BHK,40,6,Ready to book if price is right,followup
+LD0351,rahul nair,8557082653,99acres,₹75 lakhs,chandigarh,4BHK,714,0,not interested,followup
+LD0352,sukh saini,9814314322,99acres,₹75 lakhs,Kharar,Villa,19040,2,not interested,warm
+LD0353,harshit kamboj,9988368675,99acres,80L,Panchkula,plot,26,5,need office space for rent want to see in cp 67  Sunday 6TH December 2023,followup
+LD0354,jatinder gupta,9814414928,99acres,114 lac,Kharar,commercial,9294,2,NEED INVESTMENT  IN 60 LACS,warm
+LD0355,gagandeep,9056590878,99acres,,Mohali,duplex,8854,3,NOT WORKING,warm
+LD0356,gagan tour,9877845204,99acres,60 lacs,Chandigarh,3BHK,660,0,SWITCH OFF,followup
+LD0357,gautam thukral,8699083853,99acres,under 1cr,Derabassi,3 BHK,51,0,NOT LOOKING,warm
+LD0358,ANIL GAUTAM,8591291180,99acres,under 1cr,Zirakpur,2BHK,2295,0,not interested,followup
+LD0359,GAGAN,8860204796,99acres,45 lac,panchkula,commercial,705,4,CLIENT FROM DELHI LOOKING FOR COMMERCIAL SHOP WILL COME ON 6TH DECEMBER,followup
+LD0360,GURJOT,9814025400,99acres,1.2cr,Kharar,plot,22,3,LOOKING COMMERCIAL PLOT ON KHARAR LANDRAN ROAD 100 SQ YARDS,follow_up
+LD0361,HARJAP SAINI,9887777929,99acres,50-80 lac,panchkula,villa,1072,2,CALL IN EVENING,follow_up
+LD0362,BAVHNEET,9216490490,99acres,60 lacs,Panchkula,3 BHK,4585,4,BUSY,new
+LD0363,ARORA AADITAYA,9878984957,99acres,1.2cr,Kurali,commercial,4379,5,PURCHASED,follow up
+LD0364,VIRSA URBAN,9779213423,99acres,50-80 lac,Derabassi,1bhk,347,4,INCOMING NOT AVAILABLE,follow_up
+LD0365,VIKRANT,9872481799,99acres,1.2cr,Chandigarh,Villa,108,3,NOT LOOKING,New
+LD0366,PARAM,8968323109,99acres,1.2cr,,2BHK,5,1,ASKING FOR SOFT LAUNCH DETAIL SHARE ON WHATSAPP,New
+LD0367,NAMAN BANSAL,7087040773,99acres,45 lac,MOHALI,duplex,25087,3,NOT LOOKING,New
+LD0368,SHIV,6284341326,99acres,1.2cr,Mohali,3 BHK,3341,2,NOT LOOKING,contacted
+LD0369,DR AMIT,7018915345,99acres,,Zirakpur,4BHK,7975,0,"BUDGET OF 1.5 CR LOOKING AREA OF 700,800 SQ FTS",hot
+LD0370,yashpal,9780154290,99acres,budget flexible,MOHALI,3BHK,392,1,"NOT YET , BUT IN 1 YEAR",contacted
+LD0371,satish,9990488073,99acres,₹75 lakhs,Derabassi,Villa,787,1,"NOT YET , BUT IN 1 YEAR",New
+LD0372,rajan sharma,9781448880,99acres,1.2cr,Derabassi,1bhk,43,1,NOT PICKING,followup
+LD0373,sam,9915788398,99acres,45 lac,Mohali,villa,18,3,"LOOKING FOR 2500,3000 SQ FTS 8A AND 8 B MOHALI",New
+LD0374,mukesh,7986662411,99acres,123 lac,MOHALI,PLOT,1183,5,"looking property in the price range of 50 lacs, planning to visit asking office address",warm
+LD0375,RAMANDEEP,8572891582,99acres,₹75 lakhs,Derabassi,Villa,39,3,PURCHASED,New
+LD0376,AMIT,7018023742,99acres,,chandigarh,3 BHK,4007,4,NOT PICKING,new
+LD0377,JAGJOT,9888555660,99acres,117 lac,Zirakpur,commercial,11314,3,HAVE LOI D BLOCK /25 SQ YARDS/ ASKING 51 LACS-25 WHITE,follow_up
+LD0378,DAVINDER ANAND,8528953030,99acres,45 lac,MOHALI,PLOT,58,3,"STAY IN PUNCHKULA WANT TO SEE 66 A, CALL ON 2ND FEB 24",new
+LD0379,ONKAR SINGH,9815397587,99acres,112 lac,Chandigarh,Villa,49,1,LOOKING FOR DOWNTOWN IN PRICE OF 45-55 LACS,cold
+LD0380,VIRENDER SINGH THAKUR,9896775493,99acres,,Kurali,commercial,6237,1,still interested but not in downtown,cold
+LD0381,manoj kumar,9816131045,99acres,1.2cr,panchkula,commercial,1278,3,PURCHASED FOOD COURT DEAL DONE IN DOWN TOWN. Interested in MANDI,follow up
+LD0382,PARVINDER SINGH,6239652210,99acres,1 crore,chandigarh,1bhk,9085,1,"WANTS TO INVEST 2 AND 2.50 CR DISCUSSED ABOUT HLP GALLERIA , CALL ON 4TH FEB 24",follow up
+LD0383,anmol,6283312247,99acres,,,4BHK,9889,1,"shared downtown details , CALL ON 3RD FEB 24",New
+LD0384,rakesh,9357704633,99acres,₹75 lakhs,Mohali,1bhk,1228,6,INTERESTED IN PRELAUNCH MOHALI KHARAR,followup
+LD0385,amarjeet singh,9988481811,99acres,80L,chandigarh,commercial,6493,2,"visited for food court 20st jan 2024. friend in Australia wants to invest , navjot from dt following up",follow up
+LD0386,silky,9781862594,99acres,80L,,duplex,6700,0,interested in city court zirakpur CALL ON 3RD JAN 2024,New
+LD0387,GURVINDER SINGH,8528800063,99acres,45 lac,Kurali,1bhk,1003,4,NOT PICKING,warm
+LD0388,ANAND,9855104633,99acres,1.2cr,Zirakpur,shop,25026,4,INTERESTED IN DOWNTOWN VIJAY FOLLOWING,followup
+LD0389,AMRINDER SINGH SIDHU,8288900700,99acres,1 crore,MOHALI,commercial,1110,5,INTERESTED IN DOWNTOWN VIJAY FOLLOWING BUDGET OF 1.50 CR COMING DT ON 31ST JAN 2024,new
+LD0390,PRATEEK,9717661463,99acres,1.2cr,,3BHK,5842,0,VISITING 26TH JAN,contacted
+LD0391,TEJAL GUPTA,9369134073,99acres,1.2cr,Panchkula,duplex,1224,5,NOT PICKING,warm
+LD0392,SHIVAM,9999124364,99acres,,Kurali,2BHK,32566,0,PURCHASED IN GURGAON,hot
+LD0393,NAVEEN BANSAL,9417148610,99acres,₹75 lakhs,Kharar,1bhk,283,5,"meeting done looking for office space, has a office space in sector 34, chess association. Interested in HOT",follow up
+LD0394,RAGHAV,9803055520,99acres,50-80 lac,Derabassi,2BHK,1049,2,"WANT TO SEE SITE WEDNESDAY , visiting on 3rd March. Interested in WARM",hot
+LD0395,lakhwinder singh,7707924496,99acres,budget flexible,Derabassi,plot,5922,4,broker from ludhiana. Interested in COLD,follow_up
+LD0396,vikrant,7508382368,99acres,1.2cr,panchkula,3BHK,1014,6,not looking,new
+LD0397,parminderjeet singh,9463464639,99acres,83 lac,panchkula,3BHK,3651,6,budget of 40 lacas,follow_up
+LD0398,mansi jaiswal,8081859367,99acres,under 1cr,,PLOT,15669,4,"call after 15th feb, she is from kfc inquired again at 99",follow up
+LD0399,priyanka,9023100719,99acres,3 crore,Kharar,duplex,4108,5,budget of 1 cr visit on Sunday 4th feb 2014,CONTACTED
+LD0400,GAURAV,8295004998,99acres,80L,chandigarh,PLOT,2054,6,from karna himani makeup. Interested in WARM,contacted
+LD0401,shivek sood,8277293447,99acres,budget flexible,Kharar,1bhk,17,1,"detail shared , inv in office space call on 6th feb 2024",CONTACTED
+LD0402,MANINDER SINGH,8264145266,99acres,1 crore,Panchkula,4BHK,830,1,looking 2 cr it compnay 17*70. Interested in WARM,follow up
+LD0403,tanish grover,8847505298,99acres,1.2cr,Chandigarh,Villa,53,1,visit Saturday at site. Interested in WARM,cold
+LD0404,kavit modgil,6283602069,99acres,₹75 lakhs,Mohali,4BHK,826,4,"working in tata cancer , switch off",contacted
+LD0405,PRIYANKA,9023100719,99acres,₹75 lakhs,Chandigarh,commercial,5228,2,"Budget around ₹75 lakhs, serious buyer",follow_up
+LD0406,GAURAV,8295004998,99acres,,Panchkula,PLOT,38,2,himani makeup. Interested in warm,follow up
+LD0407,GAURAV KUMAR,9988304677,99acres,80L,MOHALI,plot,3451,6,interested in Industrial plotting. Interested in WARM,new
+LD0408,shivek sood,8277293447,99acres,under 1cr,Mohali,plot,17423,4,"visited downtown, call in evening. Interested in WARM",warm
+LD0409,MANINDER SINGH,8264145266,99acres,,Zirakpur,shop,720,4,Will visit site call on 6th March 24. Interested in repeate clt 88,warm
+LD0410,tanish grover,8847505298,99acres,₹75 lakhs,MOHALI,1bhk,25676,4,will visit on 2nd march 2024. Interested in WARM,new
+LD0411,kavit modgil,6283602069,99acres,1.2cr,MOHALI,villa,59,4,"Budget around 1.2cr, serious buyer",New
+LD0412,mansi jaiswal,8081859367,99acres,50-80 lac,Kharar,shop,459,4,Ready to book if price is right,warm
+LD0413,navpreet singh,9041062523,99acres,1.2cr,Kharar,commercial,33208,0,Wants to visit this weekend,new
+LD0414,ashwinder,9915157779,99acres,60 lacs,chandigarh,3BHK,5807,2,Interested in WARM,new
+LD0415,bhavjeet,9878510010,99acres,₹75 lakhs,,shop,9381,6,int in mcc. Interested in WARM,warm
+LD0416,aditya bansal,9646431283,99acres,50-80 lac,Panchkula,duplex,8295,2,Interested in cold,cold
+LD0417,navjot singh,7090000070,99acres,80L,Derabassi,shop,19,0,purchased in mullanpur. Interested in WARM,warm
+LD0418,shyna sharma,9888931243,99acres,60 lacs,panchkula,2BHK,11792,2,np,follow_up
+LD0419,parmod dhawan,9814135227,99acres,₹75 lakhs,MOHALI,plot,38229,1,a broker,contacted
+LD0420,rajbir singh,9779224790,99acres,80 lac,Derabassi,Villa,37,1,"kapoorthala , shared detail , planning to visit, budget of office space , visit on 18th march 2024. Interested in WARM",followup
+LD0421,sahil,9876356872,99acres,₹75 lakhs,Panchkula,plot,133,6,"Interested in showroom , staying in panchkula, will visit. Interested in WARM",hot
+LD0422,gagandeep,9877170058,99acres,under 1cr,Derabassi,Villa,50,5,dealer,follow up
+LD0423,pranav sood,9041603501,99acres,1.2cr,Kurali,3 BHK,32,2,Wants to visit this weekend,hot
+LD0424,vasu,9041411192,99acres,₹75 lakhs,MOHALI,duplex,1011,0,Interested in npicked,New
+LD0425,ranjeet,9095670001,99acres,50-80 lac,MOHALI,3 BHK,4575,5,dealer. Interested in COLD,hot
+LD0426,pranav kapoor,9466201737,99acres,₹75 lakhs,Mohali,commercial,1436,2,choosihg between noida commercial and mohali. Interested in WARM,cold
+LD0427,varun walia,9988658081,99acres,45 lac,chandigarh,3BHK,884,5,call on Sunday. Interested in WARM,New
+LD0428,anshu bahl,7901730514,99acres,budget flexible,Mohali,2BHK,44,2,dealer. Interested in COLD,New
+LD0429,samriti sachdeva,7888331781,99acres,budget flexible,Chandigarh,Villa,14,1,talking with her husband for visit. Interested in WARM,warm
+LD0430,RAHUL KATYAL,9888234524,99acres,₹75 lakhs,Kurali,shop,9,2,"DETAIL SHARED, PHONE NOT PICKING. Interested in COLD",CONTACTED
+LD0431,PRAKTEEK SINGH,9501050550,99acres,60 lacs,MOHALI,plot,5,1,CALL BY MISTAKE. Interested in COLD,follow_up
+LD0432,ASIF,7658880203,99acres,budget flexible,Chandigarh,duplex,187,5,WANT TO SELL HIS PROPERTY FIRST THEN INVEST. Interested in WARM,cold
+LD0433,GURPREET,9463918922,99acres,80L,panchkula,PLOT,9552,4,WANTS TO SELL PROPERTY THAN INVEST. Interested in COLD,hot
+LD0434,RAHUL TYAGI,9888555466,99acres,80L,Zirakpur,3BHK,2899,2,CALL AFTER 1.30. Interested in WARM,followup
+LD0435,ANIL,7988738851,99acres,₹75 lakhs,Derabassi,Villa,21108,4,"INT IN 12*36 SIZE, DETAILED DISCUSSED, MIGHT VISIT AFTER HOLI, CALLED BY VIJAY. Interested in WARM",contacted
+LD0436,PANVITH SHARMA,8847041501,99acres,80L,Kurali,plot,37944,5,INTERESED IN RESIDENTIAL,contacted
+LD0437,AKASHDEEP,9641764854,99acres,1.2cr,chandigarh,PLOT,12152,6,NOT PICKING. Interested in COLD,warm
+LD0438,MUKESH,9876173111,99acres,45 lac,panchkula,PLOT,27,6,not interested RIGHT NOW. Interested in COLD,CONTACTED
+LD0439,AMAN,7009832585,99acres,under 1cr,Zirakpur,PLOT,9854,3,INVESTED IN JUIBLEE. Interested in COLD,new
+LD0440,AJAY VIJ,7276767391,99acres,1.2cr,MOHALI,villa,52,0,VISITED INTERESTED. Interested in HOT,follow up
+LD0441,NAINA CHANDAN,9892495368,99acres,50-80 lac,Chandigarh,3 BHK,365,5,not picking. Interested in COLD,followup
+LD0442,EKAMDEEP,9815362756,99acres,80L,,PLOT,7560,5,4379724304. Interested in WARM,follow_up
+LD0443,TEJINDER SINGH,7347202723,99acres,45 lac,Kharar,2BHK,38450,3,"INT IN 12*36 SIZE, DETAILED DISCUSSED, VISITING SUNDAY 24TH MARCH 2023. Interested in hot",follow_up
+LD0444,BINOY JOT,6283166145,99acres,under 1cr,Kurali,4BHK,1545,6,INTERESTED VISITING 29TH MARCH 2024. IN PATIALA NOW. Interested in WARM,warm
+LD0445,G.L.DEEP,9914464160,99acres,60 lacs,Kurali,plot,3544,4,not intersted right now. Interested in COLD,cold
+LD0446,SHEKHAR,9779905588,99acres,₹75 lakhs,Mohali,4BHK,27593,1,not picking. Interested in COLD,followup
+LD0447,ISHA DHALIWAL/ K.D.,7888809611,99acres,80L,chandigarh,4BHK,918,0,INTERESTED VISITING 29TH MARCH 2024. IN PATIALA NOW. Interested in HOT,hot
+LD0448,MANDEEP,9810181430,99acres,2 crore,MOHALI,Villa,177,4,INTERESTED BUDGET OF 1 CR COMING OFFICE ON 13TH APRIL 2024. Interested in WARM,new
+LD0449,INFINTIY BUILDER AND PROMOTORS SACHIN SETIA,8527004646,99acres,1.2cr,Kharar,4BHK,59,3,COMING ON WEEKEND 14TH APRIL 24,new
+LD0450,PIYUSH KUMAR,9814770809,99acres,1.2cr,Mohali,2BHK,8369,5,MOHALI,follow_up
+LD0451,300,9608654018,99acres,budget flexible,,duplex,37387,2,Interested in 450,warm
+LD0452,NAME,9419518520,facebook,60 lacs,,3BHK,6,6,RESPONSE. Interested in LOCATION,contacted
+LD0453,DEEPAK ARORA,8866666415,facebook,₹75 lakhs,Derabassi,villa,10736,1,COLD,follow up
+LD0454,PANKAJ TATTAR,9814170128,facebook,1.2cr,Kharar,4BHK,37325,5,COLD,new
+LD0455,ANGAD OBEROI,9815204000,facebook,,,4BHK,6926,5,COLD,follow up
+LD0456,AGGARWAL ASSOCIATES,8708909614,facebook,₹75 lakhs,,2BHK,591,2,COLD,new
+LD0457,ROBIN MOUDGIL,9805445001,facebook,₹75 lakhs,panchkula,commercial,665,5,COLD,new
+LD0458,SUKHDEV,9888130989,facebook,60 lacs,Chandigarh,Villa,6944,4,COLD. Interested in CHANDIGARH,warm
+LD0459,BALDEV Singla,9501635206,facebook,under 1cr,Kharar,PLOT,48,3,WARM. Interested in KHARAR,follow up
+LD0460,VIJAY SINGLA,9988012806,facebook,60 lacs,Chandigarh,PLOT,20,3,COLD. Interested in PATIALA,contacted
+LD0461,DARPAN KHANNA,9217716008,facebook,45 lac,Kharar,duplex,39326,1,WARM,cold
+LD0462,SUNITA PARJAPAT,6375261221,facebook,50-80 lac,Chandigarh,PLOT,5394,2,WARM,follow_up
+LD0463,GYAN CHAND,9780551074,facebook,,,2BHK,356,1,COLD,cold
+LD0464,LAKHI SINH BRAR,8054350074,facebook,budget flexible,Panchkula,1bhk,58,6,COLD,cold
+LD0465,Satnam Singh,9339001700,facebook,₹75 lakhs,panchkula,plot,1153,2,WARM,hot
+LD0466,RAM CHAND,8146925870,facebook,budget flexible,panchkula,PLOT,10931,2,WARM. Interested in SBI,contacted
+LD0467,maj gen rupinder singh,9779342831,facebook,60 lacs,panchkula,duplex,878,6,WARM,follow_up
+LD0468,HARPREET SINGH,8567070099,facebook,₹75 lakhs,Panchkula,commercial,32213,4,COLD,hot
+LD0469,SHOBIT JAIN,9815285800,facebook,45 lac,Chandigarh,Villa,31,0,WARM. Interested in LUDHIANA,follow_up
+LD0470,RAJESH KUMAR SINGH,9864299962,facebook,45 lac,Zirakpur,4BHK,37,1,WARM,hot
+LD0471,nishi domeli,9855044937,facebook,50-80 lac,panchkula,villa,19,6,WARM,hot
+LD0472,aman chopra,8054660030,facebook,60 lacs,Kharar,3BHK,18709,2,WARM,hot
+LD0473,bhupinder singh juneja,9877932818,facebook,budget flexible,Kurali,commercial,8078,4,WARM,follow up
+LD0474,rahul bakshi,9779868834,facebook,budget flexible,Mohali,plot,13212,1,COLD,cold
+LD0475,rohit kawatra,9501066332,facebook,1.2cr,Mohali,3BHK,6296,4,COLD,follow up
+LD0476,ali khan,9812121212,facebook,50-80 lac,,1bhk,33109,5,COLD,followup
+LD0477,harpreet punj,8146007007,facebook,45 lac,panchkula,1bhk,26950,6,WARM,follow up
+LD0478,samita kaur,9815800164,facebook,45 lac,Kharar,duplex,194,6,WARM,followup
+LD0479,rajdeep,9876068237,facebook,60 lacs,panchkula,3 BHK,17757,4,"Budget around 60 lacs, serious buyer",CONTACTED
+LD0480,pawanjit,8450000066,facebook,60 lacs,MOHALI,shop,33,1,WARM. Interested in PATIALA,New
+LD0481,deep kaur,9872099052,facebook,1.2cr,panchkula,shop,27671,6,WARM,New
+LD0482,RAM CHAND,8146925870,facebook,under 1cr,MOHALI,villa,560,0,WARM,cold
+LD0483,abhishek mangla,9467629425,facebook,60 lacs,Chandigarh,PLOT,17888,1,Looking for PLOT in Chandigarh,contacted
+LD0484,balwinder chadaha/ MAYA CHADHA,9815019966,facebook,budget flexible,Chandigarh,4BHK,39347,3,WARM. Interested in CHANDIGARH,CONTACTED
+LD0485,pushkar rai,8968933399,facebook,₹75 lakhs,Mohali,4BHK,35219,5,WARM. Interested in KLV SIGNATURE-MOHALI,New
+LD0486,vinay bhatia,7087373015,facebook,50-80 lac,Chandigarh,villa,57,6,Family decision pending,contacted
+LD0487,karamjit,7600009553,facebook,under 1cr,Chandigarh,commercial,19,2,WARM,follow_up
+LD0488,kamlesh kumari,8558068379,facebook,80L,chandigarh,1bhk,743,6,Comparing with other projects,hot
+LD0489,tarman,9896115157,facebook,50-80 lac,Derabassi,3BHK,7065,3,Ready to book if price is right,warm
+LD0490,PANKAJ,8146338844,facebook,₹75 lakhs,Zirakpur,2BHK,5668,2,Wants to visit this weekend,warm
+LD0491,dr r k sharma,8894328728,facebook,45 lac,MOHALI,duplex,8007,2,Wants to visit this weekend,hot
+LD0492,ashok bajaj,9888953773,facebook,₹75 lakhs,panchkula,villa,470,1,HOT,follow up
+LD0493,R P SINGH,8699003589,facebook,60 lacs,chandigarh,plot,2877,5,Comparing with other projects,cold
+LD0494,SAHIL BANSAL,8889900002,facebook,1.2cr,chandigarh,3 BHK,557,6,WARM,follow_up
+LD0495,AMIT GARG,9888542306,facebook,budget flexible,Kurali,shop,30746,2,Wants to visit this weekend,New
+LD0496,PANKAJ BHARGAVA,8146338844,facebook,₹75 lakhs,panchkula,Villa,16940,3,Ready to book if price is right,warm
+LD0497,dr r k sharma,8894329729,facebook,,Kharar,4BHK,1294,3,Interested in PATHANKOT,warm
+LD0498,RAJESH RAJPUT,7002078290,facebook,1.2cr,Panchkula,shop,6953,0,WARM,new
+LD0499,PROF PARASHAR REF SINGLA JI,7986429088,facebook,1.2cr,panchkula,3BHK,2544,5,WARM,CONTACTED
+LD0500,DIKSHA,8699664609,facebook,under 1cr,Kurali,villa,1253,6,WARM,cold
+LD0501,TAPAN DIWAN,9872315555,facebook,budget flexible,panchkula,PLOT,2263,1,"Budget around budget flexible, serious buyer",hot
+LD0502,VIMAL KALRA,9560993841,facebook,under 1cr,Zirakpur,4BHK,1090,5,WARM. Interested in PATIALA,warm
+LD0503,NEHA KHURANA,8288842598,facebook,under 1cr,Chandigarh,villa,2600,6,WARM,CONTACTED
+LD0504,RP SINGH,8699003589,facebook,45 lac,chandigarh,Villa,7995,6,Family decision pending,followup
+LD0505,dr r k sharma,8894328728,facebook,45 lac,chandigarh,PLOT,789,0,Ready to book if price is right,CONTACTED
+LD0506,ishan goyal,9041333222,facebook,1.2cr,Derabassi,3 BHK,7744,6,WARM,warm
+LD0507,harry,7042111043,facebook,50-80 lac,Mohali,duplex,9093,5,WARM. Interested in Delhi,followup
+LD0508,sandeep manchanda,9915766164,facebook,budget flexible,Panchkula,shop,13611,1,Looking for shop in Panchkula,CONTACTED
+LD0509,samya sood/ashwani sood,9877926673,facebook,₹75 lakhs,Kharar,3BHK,1414,2,WARM. Interested in KHARAR,cold
+LD0510,gurdev jain,9898989898,facebook,60 lacs,Kurali,shop,999,0,"Budget around 60 lacs, serious buyer",contacted
+LD0511,prabhnit singh choudhary,9815370466,facebook,₹75 lakhs,Kharar,PLOT,39,4,HOT,cold
+LD0512,laksh singh,9418430652,facebook,45 lac,Kurali,1bhk,50,3,Wants to visit this weekend,contacted
+LD0513,DEEPAK,9888481119,facebook,50-80 lac,Derabassi,plot,19771,6,Family decision pending,follow_up
+LD0514,GOVIND GREWAL,7986357571,facebook,45 lac,Zirakpur,shop,8707,3,Wants to visit this weekend,followup
+LD0515,MEENU MAKKAR,8360575695,facebook,60 lacs,Chandigarh,4BHK,12,0,WARM. Interested in CHANDIGARH,cold
+LD0516,MANINDER MULTANI,7009174411,facebook,60 lacs,Kurali,3BHK,9171,2,"Budget around 60 lacs, serious buyer",followup
+LD0517,PRADEEP NARULA,9814035553,facebook,₹75 lakhs,Mohali,shop,25,4,Wants to visit this weekend,follow up
+LD0518,NAVJOT AGGARWAL,9915387999,facebook,₹75 lakhs,Derabassi,plot,15824,3,Wants to visit this weekend,follow_up
+LD0519,gaurav jayaswal,9540481077,facebook,60 lacs,Chandigarh,PLOT,41,4,Interested in CHANDIGARH,CONTACTED
+LD0520,rahul gupta,8014254000,facebook,₹75 lakhs,Zirakpur,3BHK,5,4,Ready to book if price is right,follow_up
+LD0521,puneet,9996515462,facebook,45 lac,Kurali,1bhk,478,0,Family decision pending,New
+LD0522,NAME,9976527945,walk-in,1.2cr,Kharar,PLOT,29,1,FEEDBACK. Interested in HLP GALLERIA,follow up
+LD0523,ASHWANI OHRI,7696617837,walk-in,60 lacs,Panchkula,3BHK,5749,6,INT IN 10*30 GROUND FLOOR. Interested in HLP GALLERIA,hot
+LD0524,GURVINDER SAINI / SARITA SAINI,7087306000,walk-in,1 crore,Derabassi,1bhk,4348,4,INT IN GROUND FLOOR IN BUDGET OF 2 CR. Interested in HLP GALLERIA,hot
+LD0525,G.L.DEEP,9914464160,walk-in,80L,Mohali,4BHK,6241,2,not interested right now. Interested in HLP GALLERIA,follow up
+LD0526,AJAY GUPTA,7589787529,walk-in,3 crore,Panchkula,commercial,364,4,INT IN BUDGET OF 2 CR. Interested in HLP GALLERIA,new
+LD0527,JAGWANT MANN,9041363685,walk-in,60 lacs,Derabassi,3BHK,1423,2,not picking. Interested in HLP GALLERIA,follow up
+LD0528,RAHUL,9805714364,walk-in,60 lacs,Zirakpur,2BHK,56,6,not picking. Interested in HLP GALLERIA,CONTACTED
+LD0529,YOGESH,8090380907,walk-in,1.2cr,Kurali,2BHK,1302,6,CALL AROUND 5;30 EVENING. Interested in HLP GALLERIA,followup
+LD0530,PIYUSH KUMAR,9814770809,walk-in,80L,Kharar,2BHK,49,4,Interested in HLP GALLERIA,hot
