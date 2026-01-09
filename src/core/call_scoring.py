@@ -1,8 +1,8 @@
 import time
 import logging
 
-from app.schemas.call import CallEvalIn, CallEvalOut
-from app.llm.call_model import analyze_call
+from src.schemas.call import CallEvalIn, CallEvalOut
+from src.llm.call_model import analyze_call
 
 log = logging.getLogger(__name__)
 
