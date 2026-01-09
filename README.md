@@ -1,4 +1,4 @@
-# FiXiT GenAI Assignment
+# FiXiT 
 
 FastAPI application for lead prioritization and call evaluation.
 
