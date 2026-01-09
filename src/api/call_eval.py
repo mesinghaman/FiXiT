@@ -1,6 +1,6 @@
 from fastapi import APIRouter
-from app.schemas.call import CallEvalIn, CallEvalOut
-from app.core.call_scoring import run_call_eval
+from src.schemas.call import CallEvalIn, CallEvalOut
+from src.core.call_scoring import run_call_eval
 
 router = APIRouter()
 
