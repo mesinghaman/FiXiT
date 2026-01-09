@@ -2,10 +2,10 @@ from typing import List
 
 from fastapi import APIRouter
 
-from app.schemas.lead import LeadIn, LeadOut
-from app.core.lead_scoring import score_lead
+from src.schemas.lead import LeadIn, LeadOut
+from src.core.lead_scoring import score_lead
 
-router = APIRouter()
+router = APIRouter(prefix="/api/v1")
 
 
 @router.post("/lead-priority", response_model=List[LeadOut])
