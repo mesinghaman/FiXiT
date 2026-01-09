@@ -1,5 +1,5 @@
-from app.schemas.lead import LeadIn, LeadOut
-from app.llm.local_model import classify_note_intent
+from src.schemas.lead import LeadIn, LeadOut
+from src.llm.local_model import classify_note_intent
 
 
 def score_lead(lead: LeadIn) -> LeadOut:
