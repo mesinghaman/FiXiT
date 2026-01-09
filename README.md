@@ -1,4 +1,5 @@
 # FiXiT 
+Loom video: https://www.loom.com/share/4196048c3b4944fbad774d79f3e52784
 
 FastAPI application for lead prioritization and call evaluation.
 
