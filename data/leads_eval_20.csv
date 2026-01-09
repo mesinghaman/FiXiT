@@ -1,0 +1,21 @@
+lead_id,customer_name,contact_number,source,notes,ground_truth
+EVAL_001,JUNEJA,9803000790,99acres,"IN 1 CRORES BUDGET, CALL AFTER DIWALI",warm
+EVAL_002,GAURAV THAKURAL,8699083853,99acres,"BUDGET OF 60 LACS , LOOKING OFFICE , TIME REQUIRE 6-8 CALL AFTER DIWALI",warm
+EVAL_003,BEDI,7098980002,99acres,AFTER 2 MONTHS,warm
+EVAL_004,RANDEEP CHOPRA,8968020280,99acres,LOOKING FOR SHOWROOM CALL FEB END 2024,warm
+EVAL_005,NAVEEN BANSAL,9417148610,99acres,"meeting done looking for office space, has a office space in sector 34, chess association",hot
+EVAL_006,RAGHAV,9803055520,99acres,"WANT TO SEE SITE WEDNESDAY , visiting on 3rd March",warm
+EVAL_007,lakhwinder singh,7707924496,99acres,broker from ludhiana,cold
+EVAL_008,GAURAV,8295004998,99acres,from karna himani makeup,warm
+EVAL_009,MANINDER SINGH,8264145266,99acres,looking 2 cr it compnay 17*70,warm
+EVAL_010,tanish grover,8847505298,99acres,visit Saturday at site,warm
+EVAL_011,GAURAV,8295004998,99acres,himani makeup,warm
+EVAL_012,GAURAV KUMAR,9988304677,99acres,interested in Industrial plotting,warm
+EVAL_013,shivek sood,8277293447,99acres,"visited downtown, call in evening",warm
+EVAL_014,tanish grover,8847505298,99acres,will visit on 2nd march 2024,warm
+EVAL_015,ashwinder,9915157779,99acres,,warm
+EVAL_016,bhavjeet,9878510010,99acres,int in mcc,warm
+EVAL_017,aditya bansal,9646431283,99acres,,cold
+EVAL_018,navjot singh,7090000070,99acres,purchased in mullanpur,warm
+EVAL_019,rajbir singh,9779224790,99acres,"kapoorthala , shared detail , planning to visit, budget of office space , visit on 18th march 2024",warm
+EVAL_020,sahil,9876356872,99acres,"Interested in showroom , staying in panchkula, will visit",warm
