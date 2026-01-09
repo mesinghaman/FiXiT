@@ -1,0 +1,298 @@
+[
+  {
+    "call_id": "CALL_001",
+    "lead_id": "EVAL_901",
+    "transcript": [
+      "agent: Hello JUNEJA. I am calling from Fixit.",
+      "client: Yes.",
+      "agent: You asked about a 2BHK in Noida Extension.",
+      "client: Correct. Budget is 800000.",
+      "agent: That fits.",
+      "client: Send details on WhatsApp.",
+      "agent: Sure."
+    ],
+    "duration_seconds": 215,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL_002",
+    "lead_id": "EVAL_902",
+    "transcript": [
+      "agent: Hi GAURAV THAKURAL, this is Fixit.",
+      "client: Busy right now.",
+      "agent: Quick update .",
+      "client: Call later.",
+      "agent: Okay, will follow up."
+    ],
+    "duration_seconds": 68,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL_003",
+    "lead_id": "EVAL_903",
+    "transcript": [
+      "agent: Good afternoon BEDI,from Fixit.",
+      "client: You people call too much.",
+      "agent: Sorry, last follow up.",
+      "client: Not interested now."
+    ],
+    "duration_seconds": 55,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_004",
+    "lead_id": "EVAL_904",
+    "transcript": [
+      "agent: Hi, checking on your interest.",
+      "client: Serious buyer.",
+      "agent: Budget range?",
+      "client: 10000.",
+      "agent: Too low.",
+      "client: OKay."
+    ],
+    "duration_seconds": 260,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_005",
+    "lead_id": "EVAL_905",
+    "transcript": [
+      "agent: Hi,from Fixit",
+      "client: Wrong Person."
+    ],
+    "duration_seconds": 26,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL_006",
+    "lead_id": "EVAL_906",
+    "transcript": [
+      "agent: Hello from Fixit.",
+      "client: Why are you calling?",
+      "agent: You filled the form.",
+      "client: Not now."
+    ],
+    "duration_seconds": 45,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL_007",
+    "lead_id": "EVAL_907",
+    "transcript": [
+      "agent: Hello, calling from Fixit.",
+      "client: Need flat.",
+      "agent: Budget range?",
+      "client: 65 lakh.",
+      "agent: Possible .",
+      "client: Proceed."
+    ],
+    "duration_seconds": 240,
+    "was_deal_closed": true
+  },{
+    "call_id": "CALL_008",
+    "lead_id": "EVAL_908",
+    "transcript": [
+      "agent: Hi, checking on your interest.",
+      "client: Serious buyer.",
+      "agent: Budget range?",
+      "client: One crore.",
+      "agent: I have matching inventory.",
+      "client: Please proceed."
+    ],
+    "duration_seconds": 260,
+    "was_deal_closed": true
+  },{
+    "call_id": "CALL_009",
+    "lead_id": "EVAL_909",
+    "transcript": [
+      "agent: Hello, Fixit here.",
+      "client: I'm in office.",
+      "agent: Shall I call evening?",
+      "client: Yes."
+    ],
+    "duration_seconds": 50,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_010",
+    "lead_id": "EVAL_910",
+    "transcript": [
+      "agent: Hi, property follow up from Fixit.",
+      "client: Just researching.",
+      "agent: Okay"
+    ],
+    "duration_seconds": 120,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_011",
+    "lead_id": "EVAL_911",
+    "transcript": [
+      "agent: Hi, property follow up from Fixit.",
+      "client: Just not searching.",
+      "agent: Okay."
+    ],
+    "duration_seconds": 120,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_012",
+    "lead_id": "EVAL_912",
+    "transcript": [
+      "agent: Hello, calling from Fixit.",
+      "client: Need flat.",
+      "agent: Budget range?",
+      "client: 55 lakh.",
+      "agent: Possible .",
+      "client: Proceed."
+    ],
+    "duration_seconds": 340,
+    "was_deal_closed": true
+  }, {
+    "call_id": "CALL_013",
+    "lead_id": "EVAL_913",
+    "transcript": [
+      "agent: Hi, from Fixit about your inquiry.",
+      "client: Already bought .",
+      "agent: Okay."
+    ],
+    "duration_seconds": 35,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_014",
+    "lead_id": "EVAL_914",
+    "transcript": [
+      "agent: Hello, from Fixit.",
+      "client: Please remove my number.",
+      "agent: Done."
+    ],
+    "duration_seconds": 25,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL_015",
+    "lead_id": "EVAL_915",
+    "transcript": [
+      "agent: Hello, Fixit calling.",
+      "client: Not interested now.",
+      "agent: Okay."
+    ],
+    "duration_seconds": 40,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL_016",
+    "lead_id": "EVAL_916",
+    "transcript": [
+      "agent: Hello, calling from Fixit.",
+      "client: Need flat.",
+      "agent: Budget range?",
+      "client: 95 lakh.",
+      "agent: Possible .",
+      "client: Proceed."
+    ],
+    "duration_seconds": 399,
+    "was_deal_closed": true
+  },{
+    "call_id": "CALL_017",
+    "lead_id": "EVAL_917",
+    "transcript": [
+      "agent: Hi, checking on your interest.",
+      "client: Serious buyer.",
+      "agent: Budget range?",
+      "client: 37 crore.",
+      "agent: I have matching inventory.",
+      "client: Please proceed."
+    ],
+    "duration_seconds": 299,
+    "was_deal_closed": true
+  },{
+    "call_id": "CALL_018",
+    "lead_id": "EVAL_918",
+    "transcript": [
+      "agent: Hello, Fixit here.",
+      "client: I'm in Hospital.",
+      "agent: Shall I call evening?",
+      "client: Yes."
+    ],
+    "duration_seconds": 49,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_019",
+    "lead_id": "EVAL_919",
+    "transcript": [
+      "agent: Hi, from Fixit follow up.",
+      "client: Serious buyer.",
+      "agent: Shall I block?",
+      "client: Yes."
+    ],
+    "duration_seconds": 160,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL_020",
+    "lead_id": "EVAL_920",
+    "transcript": [
+      "agent: Hi, property follow-up.",
+      "client: Need details very soon.",
+      "agent: Sending now.",
+      "client: Thanks."
+    ],
+    "duration_seconds": 145,
+    "was_deal_closed": true
+  }, {
+    "call_id": "CALL_021",
+    "lead_id": "EVAL_921",
+    "transcript": [
+      "agent: Hello, from Fixit about your inquiry.",
+      "client: Just comparing prices.",
+      "agent: Any timeline?",
+      "client: Maybe next year.",
+      "agent: Okay."
+    ],
+    "duration_seconds": 165,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL_022",
+    "lead_id": "EVAL_922",
+    "transcript": [
+      "agent: Hello, from Fixit .",
+      "client: Why so many calls?",
+      "agent: Last follow up.",
+      "client: Remove my number.",
+      "agent: Done."
+    ],
+    "duration_seconds": 50,
+    "was_deal_closed": false
+  },{
+    "call_id": "CALL_021",
+    "lead_id": "EVAL_921",
+    "transcript": [
+      "agent: Hello from Fixit.",
+      "client: Please call tomorrow.",
+      "agent: Sure."
+    ],
+    "duration_seconds": 60,
+    "was_deal_closed": false
+  }, {
+    "call_id": "CALL_024",
+    "lead_id": "EVAL_924",
+    "transcript": [
+      "agent: Hi, from Fixit .",
+      "client: Looking seriously now.",
+      "agent: Location preference?",
+      "client: South Delhi.",
+      "agent: Okay",
+      "client: Okay, confirm."
+    ],
+    "duration_seconds": 275,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL_025",
+    "lead_id": "EVAL_925",
+    "transcript": [
+      "agent: Hi, from Fixit about your inquiry.",
+      "client: Mind change.",
+      "agent: Okay."
+    ],
+    "duration_seconds": 35,
+    "was_deal_closed": false
+  }
+]
